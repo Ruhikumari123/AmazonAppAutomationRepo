@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Amazon App Automation Suite">
+  <test name="LogInTest">
+    <classes>
+    <class name="com.amazon.qa.testcases.LoginPageTest"/>
+    <!-- <class name="com.amazon.qa.testcases.HomePageTest"/>
+    <class name="com.amazon.qa.testcases.SearchListPageTest"/>
+      <class name="com.amazon.qa.testcases.ProductDetailsPageTest"/>
+      <class name="com.amazon.qa.testcases.CheckOutPageTest"/> -->
+    </classes>
+  </test> <!-- LogInTest -->
+</suite> <!-- LogInTestSuite -->
